@@ -6,4 +6,4 @@
 - Ao agendar uma consulta, antes de selecionar uma médico, listar médicos disponiveis ✅
 - Ao agendar uma consulta, checar o cadastro do Cpf assim que inserido
 
-### Funcionalidades implementadas foram marcadas com ✅
+### Funcionalidades implementadas foram marcadas com ✅!
