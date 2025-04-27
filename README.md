@@ -1,3 +1,7 @@
+# Sobre
+- Em cima de um código-esqueleto, sugerir e adicionar funcionalidades 
+- Projeto letivo
+
 # Novas funcionalidades
 - Cadastro de Médicos ✅
 - Validação de formato - Cpf
