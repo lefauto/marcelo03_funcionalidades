@@ -2,7 +2,7 @@
 - Em cima de um código-esqueleto, sugerir e adicionar funcionalidades 
 - Projeto letivo
 
-# Novas funcionalidades
+## Novas funcionalidades
 - Cadastro de Médicos ✅
 - Validação de formato - Cpf
 - Validação de formato- Número do celular
